@@ -1,4 +1,4 @@
-- <h1>👋 Bonjour!</h1>
+<h1>👋 Bonjour!</h1>
 <h2> <img src="https://img.icons8.com/color/48/000000/about-us-female.png"/> Qui suis-je ? </h2>
 Photographe indépendante et developpeur web junior, deux univers assez éloignés l'un de l'autre mais qui me passionnent tous les deux.<br/>
 Après une carrière dans le monde bancaire, je me suis tournée, il y a quelques années vers la photographie dite sociale (mariage, grossesse, naissance, famille...).<br/>
